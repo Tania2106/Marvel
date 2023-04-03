@@ -1,0 +1,79 @@
+.encabezado {
+    width: 100%;
+    height: 50px;
+    background: black;
+    border: 1px solid white;
+    position: absolute;
+    top: 3px;
+    right: 1px;
+  }
+  .logo{
+    width: 130px;
+    height: 65px;
+    position: absolute;
+    left: 550px;
+    bottom: -7px;
+     
+  }
+
+  
+  .botonimagen{
+    width: 200px;
+    height: 60px;
+    background-image : url('src\assets\marvel_insider-topnav-logo-large2x-modified.png');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: left center;
+    position: absolute;
+    left: 60px;
+    bottom: -5px;
+    line-height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+   text-decoration: none;
+   font-weight: 400;
+   font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   
+   font-size: 16px;
+   
+  }
+  
+  
+  .botonimagen1{
+    width: 180px;
+    height: 60px;
+    background-image : url('src\assets\icon-mu-shield.png');
+    background-repeat: no-repeat;
+    background-size: 22px 25px;
+    background-position: left center;
+    position: absolute;
+    left: 1000px;
+    bottom: 0px;
+     line-height: 60px;
+    text-align: center;
+    color: white;
+   text-decoration: none;
+   font-weight: 400;
+   font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+
+   font-size: 16px;
+  }
+  
+  .botonimagen2{
+    width: 50px;
+    height: 60px;
+    background-image : url('src\assets\lupa.png');
+    background-repeat: no-repeat;
+    background-size: 40px 40px;
+    background-position: left center;
+    text-align: right;
+    position: absolute;
+    left: 1175px;
+    bottom: -5px;
+  }
+
+  #fecha{
+    font-size: 46pt;
+    display: inline-block;
+  }

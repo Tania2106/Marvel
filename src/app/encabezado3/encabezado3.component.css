@@ -1,0 +1,87 @@
+
+.encabezado3 {
+    width: 100%;
+    height: 44px;  
+    background: black;
+    border: 1px solid white;
+    top: 108px;
+    position: absolute;
+    top: 95px;
+    right: 1px;
+     
+  }
+
+
+
+.facebook{
+    width: 50px;
+    height: 60px;
+    background-image:url('src\assets\facebook.png');
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: left center;
+    text-align: right;
+    position: absolute;
+    left: 1122px;
+    bottom: -9px;
+  }
+  
+  
+
+  .twitter{
+    width: 50px;
+    height: 60px;
+    background-image:url('src\assets\twitter.png');
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: left center;
+    text-align: right;
+    position: absolute;
+    left: 1180px;
+    bottom: -9px;
+  }
+
+  .botonimagen{
+    width: 150px;
+    height: 60px;
+    background-image : url('src\assets\flecharo.png');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: left center;
+    position: absolute;
+    left: 60px;
+    bottom: -5px;
+    line-height: 60px;
+    text-align:center;
+    vertical-align: middle;
+    color: white;
+   text-decoration: none;
+   font-weight: 400;
+   font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   
+   font-size: 12px;
+   
+  }
+
+  .botonimagen1{
+    width: 90px;
+    height: 60px;
+    background-image : url('src\assets\flechabla.png');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: left center;
+    position: absolute;
+    left: 650px;
+    bottom: -5px;
+    line-height: 60px;
+    text-align:center;
+    vertical-align: middle;
+    color: white;
+   text-decoration: none;
+   font-weight: 400;
+   font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   
+   font-size: 12px;
+   
+  }
+

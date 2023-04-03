@@ -1,0 +1,127 @@
+.Info {
+    width: 500px;
+    height: 500px;
+    background: white;
+    position: absolute;
+    left: 650px;
+    top: 200px;
+    background-color: #ffffff00
+  }
+
+  h1{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 20px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: -14px;
+  }
+  h2{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 20px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: 45px;
+  }
+  h3{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 20px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: 130px;
+  }
+  h4{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 20px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: 220px;
+  }
+  h5{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    left: 300px;
+    top: 115px;
+  }
+
+  #fecha{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 15px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: 90px;
+  }
+
+  #writer{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 15px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: 180px;
+  }
+  
+  #artista{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 15px;
+    position: absolute;
+    text-align: center;
+    left: 25px;
+    top: 280px;
+  }
+
+  #penciler{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 15px;
+    position: absolute;
+    text-align: center;
+    left: 300px;
+    top: 180px;
+  }
+  
+  #parrafo{
+    font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   color: white;
+   font-size: 15px;
+    position: absolute;
+    text-align: justify;
+    left: 25px;
+    top: 350px;
+  }
+  
+  .botonimagen{
+    width: 150px;
+    height: 60px;
+    background-image : url('src\assets\flecharo.png');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: left center;
+    position: absolute;
+    left: 60px;
+    bottom: -5px;
+    line-height: 60px;
+    text-align:center;
+    vertical-align: middle;
+    color: white;
+   text-decoration: none;
+   font-weight: 400;
+   font-family: "RobotoCondensed Bold", "Trebuchet MS", Helvetica, Arial, sans-serif;
+   
+   font-size: 12px;
+   
+  }
